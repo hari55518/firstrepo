@@ -25,3 +25,4 @@ sudo su
 jenkins status
 cd repo
 sudo su
+exit
